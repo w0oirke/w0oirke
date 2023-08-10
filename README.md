@@ -18,5 +18,5 @@
 </div>
 
 <div>
-  https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true&theme=radical
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true&theme=radical)
 </div>
