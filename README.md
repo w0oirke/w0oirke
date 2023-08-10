@@ -16,3 +16,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 </div>
+
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true&theme=radical)
+</div>
