@@ -18,3 +18,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
+ <div align="center">
+      <a href="https://github.com/w0oirke">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0oirke&layout=compact&show_icons=true&hide_title=true&theme=nord" />
+      </a>
+  </div>
