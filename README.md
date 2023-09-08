@@ -1,3 +1,10 @@
+<div>
+  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true">
+  <!--<img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0oirke&hide=tex&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">-->
+  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=w0oirke&layout=compact">
+  <!--<img align='left' width="100%" src="https://github-profile-trophy.vercel.app/?username=w0oirke">-->
+</div>
+
 <div align="center">
   <h3>📋 Language</h3>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
