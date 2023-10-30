@@ -14,7 +14,12 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </div>
-
+    <div>
+      <h3>💡 My Most Used Language 💡</h3>
+      <a href="https://github.com/w0oirke">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plebea&layout=compact&show_icons=true&hide_title=true&theme=nord" />
+      </a>
+    </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
