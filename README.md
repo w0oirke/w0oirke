@@ -25,6 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=w0oirke&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
 <div>
-  <h1>My web🌐</h1> 
+  <h3>My web🌐</h3> 
   https://w0oirke.me/
 </div>
