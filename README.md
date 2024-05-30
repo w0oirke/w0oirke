@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `Jung Wook Park`
 - 🌱 I’m currently learning *Web dev*. 
-- 📫 [**Email**](justinwook@naver.com)
+- 📫 [**Email**](mailto:justinwook@naver.com)
 - 📫 [**instagram**](https://www.instagram.com/w0oirke)
 
   <hr>
