@@ -3,6 +3,8 @@
 - 📫 [**Email**](justinwook@naver.com)
 - 📫 [**instagram**](https://www.instagram.com/w0oirke)
 
+  <hr>
+
   <div align="center">
     <div>
       <h3>Most used language</h3>
